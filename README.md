@@ -1,17 +1,14 @@
-# Broad-Learning-System-
-An Effective and Efficient Incremental Learning System Without the Need for Deep Architecture
-=======
+
 # Broad Learning System: An Effective and Efficient Incremental Learning System Without the Need for Deep Architecture
 
 **Chen jun long**
 
 
-*澳门大学*
 
 
 
 
-## Bls is a kind of neural network structure which does not depend on depth structure.Compared with the "depth" structure, the "width" structure is very simple because there is no coupling between layers.Similarly, because there is no multi-layer connection and the bls does not need to use gradient descent to update the weights, the computing speed is much better than deep learning.When the accuracy of the network is not up to the requirements, we can increase the "width" of the network to improve the accuracy, and the increase in the width of the calculation and the depth of the network to increase the number of layers, can be said to be very small.The author believes that the bls is suitable for the system with few data features but high demand for real-time prediction.That is to say, this structure does not perform well in large image classification problems like ImageNet, which is why only MNIST and NORB data sets are shown in the original text.
+ Bls is a kind of neural network structure which does not depend on depth structure.Compared with the "depth" structure, the "width" structure is very simple because there is no coupling between layers.Similarly, because there is no multi-layer connection and the bls does not need to use gradient descent to update the weights, the computing speed is much better than deep learning.When the accuracy of the network is not up to the requirements, we can increase the "width" of the network to improve the accuracy, and the increase in the width of the calculation and the depth of the network to increase the number of layers, can be said to be very small.The author believes that the bls is suitable for the system with few data features but high demand for real-time prediction.That is to say, this structure does not perform well in large image classification problems like ImageNet, which is why only MNIST and NORB data sets are shown in the original text.
 
 
 ## Concept
