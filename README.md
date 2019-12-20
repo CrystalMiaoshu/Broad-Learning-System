@@ -16,14 +16,6 @@
 
 The essence of bls is a random vector functional link neural network (RVFLNN).Different from CNN, this network does not change the kernel of feature extractor by reverse transmission, but calculates the weight of each feature node and enhancement node by pseudo-inverse.It's the same as taking 100 kids who don't know math and asking them to solve any problem (like 1+1=?).The answers were any number between 0 and 9, but the children had their own preferences, which meant that their answers were randomly distributed differently.The goal of the network is to predict the answers to the questions from the responses of 100 children.
 
-
-
-
-
-
-
-
-
 <img src="i.jpg" width="400" hegiht="213" align=center />
 
 
